@@ -112,6 +112,4 @@ const person = {
       console.log('The name is' + ' ' + this.name + ' ' + surname); }
 };
 
-person.greet();
-
-///////////////////////////
+person.greet()
